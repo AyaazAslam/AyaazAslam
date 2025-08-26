@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ayaz Aslam</h1>
 <h3 align="center">A passionate Flutter Developer & ASP.NET core</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ayaazaslam&label=Profile%20views&color=0e75b6&style=flat" alt="ayaazaslam" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ayaazaslam" alt="ayaazaslam" /></a> </p>
 
 - 🌱 I’m currently learning **Angular**
 
