@@ -1,59 +1,90 @@
-<h1 align="center">Hi 👋, I'm Ayaz Aslam</h1>
-<h3 align="center">Flutter Developer & ASP.NET Core Enthusiast</h3>
-
-<!-- Typing animation -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=F75C7E&width=600&lines=Hi+there!+Welcome+to+my+GitHub;I+love+building+apps+with+Flutter+%26+Firebase;ASP.NET+Core+for+backend;Always+learning+new+tech!)](https://git.io/typing-svg)
-
----
-
-<div align="center">
-  <!-- GitHub stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=AyaazAslam&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AyaazAslam&layout=compact&theme=dracula" height="150" />
-</div>
-
-<!-- Fun gif on the right -->
-<p align="right">
-  <img src="https://i.gifer.com/7efs.gif" alt="fun gif" height="150" />
-</p>
+<!-- Banner Typing Animation -->
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=FF5733&center=true&vCenter=true&width=600&lines=Hi+👋,+I'm+Ayaz+Aslam;Flutter+Developer;ASP.NET+Core+Enthusiast;Open+Source+Lover;Always+Learning+🚀" alt="Typing SVG" />
+</h1>
 
 ---
 
-## 🔭 About Me
-- Flutter developer & ASP.NET Core enthusiast.  
-- I build mobile apps (Flutter + Firebase) and backend services (ASP.NET Core / Node.js).  
-- Love experimenting with UI, animations, and new technologies.  
+## 🌟 About Me  
+
+🚀 **Flutter Developer | ASP.NET Core Enthusiast**  
+💡 Specialized in **Dart, Firebase, REST APIs, and State Management**  
+📱 Passionate about building **scalable mobile apps** with clean UI/UX  
+🔥 Always excited to **learn, build, and share** knowledge with the dev community  
 
 ---
 
-## 🛠️ Skills & Tech
-<div>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="40" alt="Dart" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="Flutter" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="Firebase" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" alt="Angular" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="C#" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js" />
-</div>
+## 🌐 Connect With Me  
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-link)  
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AyaazAslam)  
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/your-handle)  
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ayazaslam@gmail.com)  
 
 ---
 
-## 📫 Connect with Me
-<div>
-  <a href="https://www.youtube.com/" target="_blank"><img src="https://img.shields.io/badge/Youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
-  <a href="https://www.instagram.com/aayaz_aslam/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/ayaz-aslam-104567257?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:ayazaslam661@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-</div>
+## 🛠️ Tech Stack  
+
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white)  
+![Dart](https://img.shields.io/badge/Dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)  
+![ASP.NET](https://img.shields.io/badge/ASP.NET%20Core-512BD4.svg?style=for-the-badge&logo=dotnet&logoColor=white)  
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
 
 ---
 
-## 🐍 DeadLine Death😂
+## 📌 Featured Projects  
+
+### 🔹 Women Safety App  
+🚨 SOS Alert, 📍 Location Sharing, 📩 SMS Sending, 👥 Trusted Contacts  
+**Tech:** Flutter, Firebase  
+🔗 [GitHub Repo](https://github.com/your-link) | [Live Demo](https://your-demo-link)  
+
+### 🔹 Quiz Management System  
+📊 Create, Manage & Attempt Quizzes  
+**Tech:** Flutter, Firebase, Provider  
+🔗 [GitHub Repo](https://github.com/your-link)  
+
+### 🔹 Live Streaming App *(LatencySoft)*  
+🎥 Real-time live streaming + chat  
+**Tech:** Flutter, Node.js, AWS, Firebase  
+🔗 [GitHub Repo](https://github.com/your-link)  
+
+### 🔹 University Navigation App  
+🗺️ Google Maps-like campus navigation  
+**Tech:** Flutter, Firebase  
+🔗 [GitHub Repo](https://github.com/your-link)  
+
+---
+
+## 📊 GitHub Stats  
+
 <p align="center">
-  <img src="https://i.gifer.com/39Cg.gif" alt="snake animation" width="300" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AyaazAslam&show_icons=true&theme=radical" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AyaazAslam&layout=compact&theme=radical" height="180"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AyaazAslam&theme=radical" alt="GitHub Streak" />
 </p>
 
 ---
 
-⭐ If you like my work, give a star and follow me!
+## ✍️ Quote I Believe In  
+
+> *“The best way to predict the future is to invent it.”*  
+
+---
+
+## 🤝 Let’s Collaborate  
+
+💬 Open to **freelance projects, collaborations, and innovative app ideas**  
+📫 Reach me at: **[ayazaslam@gmail.com](mailto:ayazaslam@gmail.com)**  
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=AyaazAslam&label=Profile%20Views&color=blueviolet&style=flat" alt="Profile Views" />
+</p>
